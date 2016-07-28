@@ -1,0 +1,11 @@
+.clock{width:30%;margin:0 auto;margin-top:5%;}
+.clock a{text-decoration:none;}
+#timer{
+	text-align:center;
+font-size:5em;border:2px solid black;
+}
+.description{font-size:1.5em;clear:both;}
+.custom{text-align:center;}
+.custom button{margin-left:1em}
+#session{font-size:2em;}
+#type{font-size:3em;}
